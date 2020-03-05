@@ -1,2 +1,2 @@
 # persons-ui-app
-Python persons ui app
+VueJS persons ui app
